@@ -52,9 +52,7 @@ Para executar o programa em um emulador, basta iniciar o emulador, e seguir os s
 - Para executar em um emulador Ios: ```react-native run-ios``` (Caso apresente algum erro, acesse a [documentação](https://reactnative.dev/docs/getting-started) do react native)
 
 ## Executando o projeto no emulador
-Dentro da pasta do projeto execute o seguinte comando no terminal:
-
-```react-native start```
+Dentro da pasta do projeto execute o seguinte comando no terminal: `react-native start`
 
 Se você estiver usando uma distribuição Linux e esse comando retornar algum tipo de erro na execução, utilize:
 
